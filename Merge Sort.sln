@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Merge Sort", "Merge Sort\Merge Sort.vcxproj", "{97EAFDF6-CD8E-4BF6-AE89-135394A8BD51}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://asadali.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Merge\u0020Sort\\Merge\u0020Sort.vcxproj
+		SccProjectName1 = Merge\u0020Sort
+		SccLocalPath1 = Merge\u0020Sort
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97EAFDF6-CD8E-4BF6-AE89-135394A8BD51}.Debug|Win32.ActiveCfg = Debug|Win32
+		{97EAFDF6-CD8E-4BF6-AE89-135394A8BD51}.Debug|Win32.Build.0 = Debug|Win32
+		{97EAFDF6-CD8E-4BF6-AE89-135394A8BD51}.Release|Win32.ActiveCfg = Release|Win32
+		{97EAFDF6-CD8E-4BF6-AE89-135394A8BD51}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
